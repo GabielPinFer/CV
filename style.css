@@ -1,0 +1,59 @@
+body{
+    background-color:lightgray;
+}
+
+h2{
+    background-color:cornflowerblue;
+    font-weight: bolder;
+}
+
+a{
+    color:blue;
+}
+
+a:hover{
+    color:red;
+}
+
+a[href = "https://www.linkedin.com/feed/"]{
+    background-color: lightyellow;
+}
+
+.imagem{
+    display: block;
+    margin: auto;
+}
+
+#titulo{
+    text-align: center;
+}
+
+#legendaPerfil{
+    text-align: center;
+}
+
+#resumo{
+    font-style: italic;
+}
+
+#legendaODS{
+    text-align: center;
+}
+
+#graduacao{
+    text-decoration:underline;
+}
+
+#ensinoBasico{
+    text-decoration: underline;
+}
+
+#final{
+    text-align: center;
+    font-weight: bold;
+}
+
+.topicos{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
